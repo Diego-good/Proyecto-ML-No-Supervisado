@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+ezc3d
+pyarrow
+scikit-learn
+scipy
+streamlit-option-menu
+matplotlib
